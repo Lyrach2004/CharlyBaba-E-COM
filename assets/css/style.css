@@ -1,0 +1,11 @@
+.with-nav{
+            margin-top:150px;
+        }
+
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.5) !important; /* pour qu'on voie bien les flèches */
+  border-radius: 50% !important;
+}
